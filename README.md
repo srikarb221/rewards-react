@@ -17,5 +17,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-<img src="public/assets/rewards_app.png" width="80%">
-![Screen Shot](/public/assets/rewards_app.png?raw=true "Optional Title")
+<img src="https://github.com/srikarb221/rewards-react/tree/master/public/assets/rewards_app.png" width="80%">
