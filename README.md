@@ -10,6 +10,7 @@ Download the Project, in the project directory, you can run:
 
 Installs the Dependencies.
 
+This App uses api [customer-rewards-api](https://github.com/srikarb221/customer-rewards-api) for Backend, need to run this api before starting this App.
 
 ### `npm start`
 
